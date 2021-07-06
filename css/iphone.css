@@ -101,3 +101,115 @@
     padding-top: 10rem;
     box-sizing: border-box; 
 }
+/* Parte 2  de  imagen */
+
+.Fra h2{
+    width: 25rem;
+    height: 5rem;
+    margin: auto;
+    text-align: center;
+    font-size:2rem;
+    margin-top: 2rem;
+    margin-bottom: 3rem;
+}
+.Fra h5 {
+    width: 25rem;
+    height: 3rem;
+    margin: auto;
+    color:var( --Gris) ;
+    text-align: center;
+    font-size: 1.3rem;
+     margin-top: 0.8rem;
+     margin-bottom: 5rem; 
+}
+
+/* Cuadro de Pago */
+.Pago{
+    width: 24rem;
+    height: 30rem;
+    background-color:var(--Blanco);
+    border-radius: 10px;
+    box-shadow: 5px 5px 15px rgb(134, 134, 134);
+    margin: auto;
+    margin-bottom: 2rem;
+    position: relative;
+     
+ }
+ .Cua-Na{
+     width: 12rem;
+     height:4rem;
+     border-radius: 0.9rem;
+     padding: 1rem;
+     font-size: 0.9rem;
+ 
+     text-align: center;
+     box-sizing: border-box;
+     background-color: var(--Naranja);
+     color:var(--Blanco);
+     margin-top: -2rem;
+     margin-left:6rem;
+     position:absolute;
+ }
+ .Pa{
+     width:100% ;
+     height:6rem;
+     text-align: center;
+     padding-top:4rem ;
+ }
+ .Pa h2{
+     font-size:1.9rem; 
+ }
+ .Di{
+     width:10rem;
+     height: auto;
+     margin: auto;
+     margin-top: 2rem;
+     
+     display:flex;
+    
+}
+ .Di h5{
+ padding-top: 0.2rem;
+ padding-right: 0.5rem;
+ color: var( --CafeClaro);
+ font-size: 1.6rem;
+ 
+}
+ .Di h1{
+     font-size: 7rem; 
+}
+ .Ah{
+     width: 22rem;
+     height: 4rem;
+     margin: auto;
+     margin-bottom: 2rem;
+     color: var(--Gris);
+}
+ .Ah p{
+     text-align: center;
+     font-size: 1.5rem;
+}
+ button{
+     width: 15rem;
+     height:5rem;
+     padding: 1.4rem;
+     margin:auto;
+    
+     border-color: var(--Naranja);
+     border-radius:0.3rem;
+ 
+     box-sizing: border-box; 
+     display:flex;
+     
+}
+ .Es{
+ width: 10rem;
+ height: 1rem;
+ font-size:1.5rem;
+ 
+}
+ .Flecha{
+     width: 2.5rem;
+}
+
+
