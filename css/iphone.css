@@ -213,3 +213,42 @@
 }
 
 
+/* Footer */
+
+footer{
+    width:100%;
+    height:15rem;
+    margin: auto;
+    background-color: var(--Naranja);
+    color:var(--Blanco);
+    display:flex;
+    justify-content: space-evenly;  
+}
+.P_1 {
+    width: 12rem;
+    height:9rem ;
+    margin: auto;
+    padding-top: 2rem;
+}
+.P_1 li{
+    font-size: 1.5rem;
+    list-style: none;
+}
+.P_2{
+    width: 12rem;
+    height:9rem ;
+    margin: auto;
+    margin-left: 3rem;
+    padding: 2rem;
+
+}.MG_1{
+    width: 5rem;
+    height: 3rem;
+    margin: auto;
+    display: flex;
+}
+.P-B{
+    margin-top: 1rem;
+    font-size:0.9rem ;
+    text-align: center;
+}
