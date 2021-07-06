@@ -13,3 +13,91 @@
 
 
 /*Sección Deisi*/
+.sen-2{
+    width: 100%;
+    background-color:var(--CafeOscuro);
+}
+.Principal_2{
+    width: 100%;
+    height: 84rem;
+
+    box-sizing: border-box; 
+    margin: auto;
+    display:flex;
+    flex-direction:column;
+    align-items: center;
+}
+.t_1{
+    width: 28rem;
+    height: 8rem;
+    margin:auto;
+    padding-top:2rem;
+    
+    color: var(--Blanco);
+    box-sizing: border-box; 
+}.t_1 h1{
+     font-size: 2rem;
+     text-align: center;
+}
+.t_2{
+    width: 90%;
+    height: 4rem;
+    margin:auto;
+    padding-top: 1rem;
+   
+    color: var(--Gris);  
+}
+.t_2  h2{
+    font-size: 1.3rem;
+    text-align: center;
+}
+
+/* Cuadros*/
+.con_h{
+    width: 37.5rem;
+ }
+ .Cuadro_1,.Cuadro_2,.Cuadro_3,.Cuadro_4{
+     width: 85%;
+     height: 15rem;
+     margin: auto;
+     padding: 2rem;
+     border-radius: 4px;
+     box-shadow: 5px 5px 15px rgb(32, 30, 30);
+     margin-top: 2rem;
+     color: var(--Blanco1);
+     background-color:var(--CafeClaro);
+ }
+ .Cuadro_1 h1,.Cuadro_2 h1, .Cuadro_3 h1,.Cuadro_4 h1{
+     width: 100%;
+     height: 2rem;
+     margin-top: 0.6rem;
+    
+     margin-bottom: 0.6rem;
+     font-size: 1.8rem;
+     color: var(--Blanco);
+ }
+ .Cuadro_1 p,.Cuadro_2 p, .Cuadro_3 p,.Cuadro_4 p{
+     font-size: 1.5rem;
+     color: var(--Gris); 
+ }
+ /* Parte de imagen */
+
+.sen_3{
+    width: 100%;
+    margin: auto;
+}
+.FOTO-1{
+    width:37.5rem;
+    height: 49rem;
+    margin: auto;
+    background-image: url(../img/women.png);
+    background-size: cover;
+}
+.FOTO-1 h2{
+    margin-bottom: 2rem;
+    font-size: 2rem;
+    color:var(--Blanco);
+    text-align: center;
+    padding-top: 10rem;
+    box-sizing: border-box; 
+}
