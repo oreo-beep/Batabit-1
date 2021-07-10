@@ -1,5 +1,218 @@
 /*Sección Diego*/
+.Seccion_principal{
+    background-color: var(--blanco-claro);
+}
+.Caja-Frase{
+    width: 37.5rem;
+    height: 35rem;
+    background: linear-gradient(207.8deg, #201E1C 16.69%, #F7931A 100%);
+    padding: 3rem;
+    
+    box-sizing: border-box;
+}
+    /*Parte de imagen y logo*/
 
+.Frase-Img{
+    width: 15rem;
+    display: flex;
+    margin: auto;
+    margin-left: 6rem;
+}
+.Batatabit{
+    font-size: 3rem;
+    color: var(--naranja); 
+    font-weight: 600;
+    margin-left:1rem;
+}
+.batata{
+    width: 4rem;
+   float: left;
+   margin-top: 0.9rem;
+}
+ /*Parte de frases*/
+
+.Frase-Revolucion{
+    font-size: 3rem;
+    color: var(--blanco-claro);
+    margin-top: 2.5rem;
+    text-align: center;
+    font-weight: 500;
+}
+.Frase-Ayuda{
+    text-align: center;
+    font-size: 1.85rem;
+    color: var(--blanco-hueso);
+    margin-top: 2.5rem;
+}
+ /*Parte de conoce nuestros planes*/
+ .Caja-Planes{
+     display: flex;
+     margin: auto;
+     width: 30rem;
+     height: 6rem;
+     background-color:var(--blanco-claro);
+     border-radius: 0.5rem;
+     margin-top: -4rem;
+     box-shadow: -4px -5px 69px -22px rgba(0,0,0,0.52);
+     -webkit-box-shadow: -4px -5px 69px -22px rgba(0,0,0,0.52);
+     -moz-box-shadow: -4px -5px 69px -22px rgba(0,0,0,0.52);
+ }
+ .Frase-Planes{
+     width: 27rem;
+     height: 6rem;
+     border-radius: 0.5rem;
+ }
+ .Img-Planes{
+    width: 6rem;
+    height: 6rem;
+    border-radius: 0.5rem;
+}
+ .Planes{
+    font-size: 1.85rem;
+    font-weight: 590; 
+    text-align: center;
+    color: var(--negro2);
+    padding-top: 1.5rem;
+}
+.Flecha-Planes{
+  width: 2.5rem;
+  transform:rotate(90deg);
+  margin-top:1.6rem;
+}
+ /*Parte de imagen grande*/
+.Caja-Img{
+    display: flex;
+    width: 37.5rem;
+    padding-top: 3rem;
+}
+.Bitcoin{
+    width: 25rem;
+    margin: auto;
+}
+ /*Parte de frase*/
+ .Caja-Frase-2{
+    padding: 2.2rem;
+    box-sizing: border-box;
+}
+ .Frase-2{
+    font-size: 3rem;
+    color: var(--negro2);
+    margin-top: 2.8rem;
+    text-align: center;
+    font-weight: 700;
+}
+.Informacion{
+    text-align: center;
+    font-size: 1.85rem;
+    color: rgb(180, 180, 180);
+    margin-top: 2.5rem;
+}
+/*Parte de monedas*/
+
+.Caja-Precios{
+   width: 30rem;
+   height: 40rem;
+   margin: auto;
+   display: flex;
+   flex-direction: block;
+   margin-top: 2rem;
+
+}
+.Monedas{
+    font-size: 3rem;
+    color: var(--naranja);
+    margin-top: 3rem;
+    text-align: left;
+    font-weight: 700; 
+    margin-left: 6rem;
+}
+.Extremos-Izq{
+    width: 14.8rem;
+    height: 5rem;
+    background-color: var(--blanco);
+    margin: 0.1rem;
+    font-size: 2rem;
+    color:var(--gris);
+    border-radius: 1rem 0.1rem 0.1rem 0.1rem ;
+    padding-left: 1rem;
+    box-sizing: border-box;
+    padding: 0.8rem;
+}
+.Extremos-Izq-i{
+    width: 14.8rem;
+    height: 5rem;
+    background-color: var(--blanco);
+    margin: 0.1rem;
+    font-size: 2rem;
+    color:var(--gris);
+    border-radius: 0.1rem 0.1rem 0.1rem 1rem ;
+    padding-left: 1rem;
+    box-sizing: border-box;
+    padding: 0.8rem;
+}
+.Centros-Izq{
+    width: 14.8rem;
+    height: 5rem;
+    background-color: var(--blanco);
+    margin: 0.1rem;
+    font-size: 1.85rem;
+    color:var(--gris);
+    border-radius: 0.1rem 0.1rem 0.1rem 0.1rem ;
+    padding-left: 1rem;
+    box-sizing: border-box;
+    padding: 0.8rem;
+}
+.Extremos-Drh{
+    width: 14.8rem;
+    height: 5rem;
+    background-color: var(--blanco);
+    margin: 0.1rem;
+    font-size: 2rem;
+    color:grey;
+    border-radius: 0.1rem 1rem 0.1rem 0.1rem ;
+    padding-left: 1rem;
+    box-sizing: border-box;
+    padding: 0.8rem;
+}
+.Extremos-Drh-i{
+    width: 14.8rem;
+    height: 5rem;
+    background-color: var(--blanco);
+    margin: 0.1rem;
+    font-size: 2rem;
+    color:grey;
+    border-radius: 0.1rem 0.1rem 1rem 0.1rem ;
+    padding-left: 1rem;
+    box-sizing: border-box;
+    padding: 0.8rem;
+}
+
+.Centros-Drh{
+    width: 14.8rem;
+    height: 5rem;
+    background-color: var(--blanco);
+    margin: 0.1rem;
+    font-size: 1.85rem;
+    color:grey;
+    border-radius: 0.1rem 0.1rem 0.1rem 0.1rem ;
+    padding-left: 1rem;
+    box-sizing: border-box;
+    padding: 0.8rem;
+}
+/*Parte de actualizado*/
+.Caja-Actualizar{
+    display: flex;
+     margin: auto;
+     margin-top: -15rem;
+     width: 25rem;
+     height: 6rem;
+     background-color:var(--blanco-hueso);
+     border-radius: 0.5rem;
+}
+.Caja-Actualizar p{
+     margin: auto;
+     font-size: 1.60rem;
+}
 
 
 
