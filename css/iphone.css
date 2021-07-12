@@ -14,16 +14,13 @@
 
 /*Sección Deisi*/
 .sen-2{
-    width: 100%;
     background-color:var(--CafeOscuro);
 }
 .Principal_2{
     width: 100%;
     height: 84rem;
-
     box-sizing: border-box; 
     margin: auto;
-    display:flex;
     flex-direction:column;
     align-items: center;
 }
@@ -32,9 +29,8 @@
     height: 8rem;
     margin:auto;
     padding-top:2rem;
-    
     color: var(--Blanco);
-    box-sizing: border-box; 
+  
 }.t_1 h1{
      font-size: 2rem;
      text-align: center;
@@ -44,7 +40,6 @@
     height: 4rem;
     margin:auto;
     padding-top: 1rem;
-   
     color: var(--Gris);  
 }
 .t_2  h2{
@@ -124,14 +119,16 @@
 }
 
 /* Cuadro de Pago */
-.Pago{
+.OP_PAGO{ 
+}
+.Pagop,.Pago1,.Pago3{
     width: 24rem;
     height: 30rem;
     background-color:var(--Blanco);
     border-radius: 10px;
     box-shadow: 5px 5px 15px rgb(134, 134, 134);
     margin: auto;
-    margin-bottom: 2rem;
+    margin-bottom: 3rem;
     position: relative;
      
  }
@@ -150,7 +147,7 @@
      margin-left:6rem;
      position:absolute;
  }
- .Pa{
+ .Pa,.Pa1,.Pa2{
      width:100% ;
      height:6rem;
      text-align: center;
@@ -159,7 +156,11 @@
  .Pa h2{
      font-size:1.9rem; 
  }
- .Di{
+ .Pa1 h2,.Pa2 h2{
+    font-size:1.9rem; 
+    color: var(--Gris);
+}
+ .Di,.Di1,.Di2{
      width:10rem;
      height: auto;
      margin: auto;
@@ -170,15 +171,28 @@
 }
  .Di h5{
  padding-top: 0.2rem;
- padding-right: 0.5rem;
+ padding-right:0.3rem ;
  color: var( --CafeClaro);
  font-size: 1.6rem;
  
 }
+.Di1 h5,.Di2 h5{
+    padding-top: 0.2rem;
+    padding-right:0.3rem ;
+    color: var( --Gris);
+    font-size: 1.6rem;   
+}
  .Di h1{
      font-size: 7rem; 
+     margin: auto;
 }
- .Ah{
+.Di1 h1,.Di2 h1{
+    font-size: 7rem; 
+    margin: auto;
+    color: var(--Gris);
+}
+
+.Ah{
      width: 22rem;
      height: 4rem;
      margin: auto;
@@ -189,7 +203,7 @@
      text-align: center;
      font-size: 1.5rem;
 }
- button{
+ .button0{
      width: 15rem;
      height:5rem;
      padding: 1.4rem;
@@ -200,7 +214,18 @@
  
      box-sizing: border-box; 
      display:flex;
-     
+}
+.button_1,.button_2{
+    width: 15rem;
+    height:5rem;
+    padding: 1.4rem;
+    margin:auto;
+   
+    border-color: var(--Gris);
+    border-radius:0.3rem;
+
+    box-sizing: border-box; 
+    display:flex;
 }
  .Es{
  width: 10rem;
@@ -208,8 +233,18 @@
  font-size:1.5rem;
  
 }
+.Es1,.Es2{
+    width: 10rem;
+    height: 1rem;
+    font-size:1.5rem;
+    color: var(--Gris);
+    
+}
  .Flecha{
      width: 2.5rem;
+}
+.Flecha1,.Flecha2{
+    width: 2.5rem;
 }
 
 
