@@ -10,9 +10,7 @@
     padding: 3rem;
     
     box-sizing: border-box;
-}
-    /*Parte de imagen y logo*/
-    
+} 
 .Frase-Img{
     width: 15rem;
     display: flex;
@@ -30,8 +28,6 @@
    float: left;
    margin-top: 0.9rem;
 }
- /*Parte de frases*/
-
 .Frase-Revolucion{
     font-size: 3rem;
     color: var(--Blanco);
@@ -45,7 +41,6 @@
     color: var(--PielClaro);
     margin-top: 2.5rem;
 }
- /*Parte de conoce nuestros planes*/
  .Caja-Planes{
      display: flex;
      margin: auto;
@@ -80,7 +75,6 @@
   transform:rotate(90deg);
   margin-top:1.6rem;
 }
- /*Parte de imagen grande*/
 .Caja-Img{
     margin: auto;
     display: flex;
@@ -91,7 +85,6 @@
     width: 25rem;
     margin: auto;
 }
- /*Parte de frase*/
  .Caja-Frase-2{
     padding: 2.2rem;
     box-sizing: border-box;
@@ -109,8 +102,6 @@
     color: rgb(180, 180, 180);
     margin-top: 2.5rem;
 }
-/*Parte de monedas*/
-
 .Caja-Precios{
    width: 30rem;
    height: 40rem;
@@ -201,7 +192,6 @@
     box-sizing: border-box;
     padding: 0.8rem;
 }
-/*Parte de actualizado*/
 .Caja-Actualizar{
     display: flex;
      margin: auto;
@@ -215,8 +205,6 @@
      margin: auto;
      font-size: 1.60rem;
 }
-
-
 /*Sección Deisi*/
 .sen-2{
     background-color:var(--CafeOscuro);
