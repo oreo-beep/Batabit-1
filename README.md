@@ -12,7 +12,7 @@ Link: https://oreo-beep.github.io/Batabit-1/
 ##### Objetivos 
 - Analizar todo el procedimiento   de nuestro proyecto.
 - Trabajar en equipo para generar un mejor entendimiento.
-- Practicar .....
+- Practicar en todas las actividades para generar mejor conocimiento 
 
 ------------
 
