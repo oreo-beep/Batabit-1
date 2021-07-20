@@ -206,6 +206,7 @@
      font-size: 1.60rem;
 }
 /*Sección Deisi*/
+
 .sen-2{
     background-color:var(--CafeOscuro);
 }
@@ -243,6 +244,8 @@
 /* Cuadros*/
 .con_h{
     width: 37.5rem;
+    margin: auto;
+    
  }
  .Cuadro_1,.Cuadro_2,.Cuadro_3,.Cuadro_4{
      width: 85%;
@@ -480,3 +483,4 @@ footer{
     font-size:0.9rem ;
     text-align: center;
 }
+
