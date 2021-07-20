@@ -13,3 +13,119 @@
 
 
 /*Sección Deisi*/
+.sen-2{
+    width: 100%;
+    background-color:var(--CafeOscuro);
+    box-sizing: border-box; 
+    margin: auto;
+}
+.Ti_h{
+    margin:auto;
+}
+.t_1{
+    width: 60rem;
+    height: 15rem;
+    margin:auto;
+    padding-top:0.8rem;
+    color: var(--Blanco);
+    box-sizing: border-box; 
+}.t_1 h1{
+     font-size: 4rem;
+     text-align: center;
+}
+.t_2{
+    width: 90%;
+    height: 4rem;
+    margin:auto;
+    padding-top: 0.8rem;
+    color: var(--Gris);  
+}
+.t_2  h2{
+    font-size: 1.9rem;
+    text-align: center;
+}
+
+/*Parte 3*/
+
+.con_h{
+    width: 100%;
+    height: 50rem;
+    
+
+    display: flex;
+    flex-direction: row;
+    Justify-content: space-evenly;
+    flex-wrap: wrap;
+
+}
+ .Cuadro_1,.Cuadro_2,.Cuadro_3,.Cuadro_4{
+     width: 35rem;
+     height: 19rem;
+     padding: 2rem;
+     margin: 0.5rem;
+    
+ }
+ .Cuadro_1 h1,.Cuadro_2 h1, .Cuadro_3 h1,.Cuadro_4 h1{
+     width: 100%;
+     height: 2rem;
+     margin-top: 0.6rem;
+     margin-bottom: 0.6rem;
+     font-size: 1.8rem;
+     color: var(--Blanco);
+ }
+ .Cuadro_1 p,.Cuadro_2 p, .Cuadro_3 p,.Cuadro_4 p{
+     font-size: 1.5rem;
+     color: var(--Gris); 
+ }
+
+
+ .sen_3{
+    width: 100%;
+    margin: auto;
+}
+.FOTO-1{
+    width:76.8rem;
+    height: 40rem;
+    background-image: url(../img/women.png);
+    background-size: cover;
+}
+.FOTO-1 h2{
+    margin-bottom: 1rem;
+    font-size: 3.5rem;
+    color:var(--Blanco);
+    text-align: center;
+    padding-top: 8rem;
+    box-sizing: border-box; 
+}
+.Fra h2{
+    width: 40rem;
+    height: 10.9rem;
+    margin: auto;
+    text-align: center;
+    font-size:3.5rem;
+    margin-top: 1rem;
+    margin-bottom: 2rem;
+    
+}
+.Fra h5 {
+    width: 40rem;
+    height: 8rem;
+    margin: auto;
+    color:var( --Gris) ;
+    text-align: center;
+    font-size: 2rem;
+     margin-top: 0.8rem;
+     margin-bottom: 5rem; 
+     
+}
+
+.OP_PAGO{ 
+    width: 100%;
+    height: 40rem;
+    display: flex;
+    
+    flex-direction: row;
+    Justify-content: space-evenly;
+    flex-wrap: wrap;
+  
+}
