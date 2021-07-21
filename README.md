@@ -2,6 +2,8 @@
 ###### Link:
 https://oreo-beep.github.io/Batabit-1/
 ##### Portada
+![Con_1](https://user-images.githubusercontent.com/68709170/126567715-0d6188ca-c467-45fa-b320-afa880724c2e.png)
+
 ------------
 - Portafolio III  de Producción de Contenidos Digitales 
 -  SCL
