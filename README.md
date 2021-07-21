@@ -1,7 +1,10 @@
 ## # Batabit-1
-###### Link:
+###### Link: 
+![Imagen2](https://user-images.githubusercontent.com/68709170/126567703-b211cfed-0278-4b30-8d0f-cd2d8051c8bd.png)
 https://oreo-beep.github.io/Batabit-1/
-##### Portada
+##### portafolio
+![Con_1](https://user-images.githubusercontent.com/68709170/126567715-0d6188ca-c467-45fa-b320-afa880724c2e.png)
+
 ------------
 - Portafolio III  de Producción de Contenidos Digitales 
 -  SCL
