@@ -1,11 +1,315 @@
 /*Sección Diego*/
+.Seccion_principal{
+    background-color: var(--PielClaro);
+    width: 136.6rem;
+}
+.Caja-Frase{
+    margin: auto;
+    width: 136.6rem;
+    height: 65rem;
+    background: linear-gradient(207.8deg, #201E1C 16.69%, #F7931A 100%);
+    padding: 3rem;
+    
+    box-sizing: border-box;
+}
+.Frase-Img{
+    width: 15rem;
+    display: flex;
+    margin: auto;
+    margin-left: 43rem;
+}
+.Batatabit{
+    font-size: 8rem;
+    color: var(--Naranja); 
+    font-weight: 600;
+    margin-left:1rem;
+}
+.batata{
+    width: 10rem;
+   float: left;
+   margin-top: 0.9rem;
+}
+.Frase-Revolucion{
+    margin: auto;
+    width: 120rem;
+    font-size: 7rem;
+    color: var(--Blanco);
+    margin-top: 2.5rem;
+    text-align: center;
+    font-weight: 500;
+}
+.Frase-Ayuda{
+    text-align: center;
+    font-size: 5rem;
+    color: var(--PielClaro);
+    margin-top: 4rem;
+}
+ .Caja-Planes{
+     display: flex;
+     margin: auto;
+     width: 90rem;
+     height: 15rem;
+     background-color:var(--PielClaro);
+     border-radius: 0.5rem;
+     margin-top: -7rem;
+     box-shadow: -4px -5px 69px -22px rgba(0,0,0,0.52);
+     -webkit-box-shadow: -4px -5px 69px -22px rgba(0,0,0,0.52);
+     -moz-box-shadow: -4px -5px 69px -22px rgba(0,0,0,0.52);
+ }
+ .Frase-Planes{
+     width: 70rem;
+     height: 10rem;
+     border-radius: 0.5rem;
+ }
+ .Img-Planes{
+    width: 13rem;
+    height: 13rem;
+    border-radius: 0.5rem;
+}
+ .Planes{
+    font-size: 5rem;
+    font-weight: 590; 
+    text-align: center;
+    color: var(--negro2);
+    padding-top: 3.5rem;
+    margin-left: 4rem;
+}
+.Flecha-Planes{
+  width: 8rem;
+  transform:rotate(90deg);
+  margin-top: 3rem;
+}
+.Caja-Img{
+    margin: auto;
+    display: flex;
+    width: 133.6rem;
+    padding-top: 4rem;
+}
+.Bitcoin{
+    width: 35rem;
+    margin: auto;
+}
+ .Caja-Frase-2{
+    width: 90rem;
+    padding: 2.2rem;
+    box-sizing: border-box;
+    margin: auto;
+}
+ .Frase-2{
+    font-size: 7rem;
+    color: var(--negro2);
+    margin-top: 5rem;
+    text-align: center;
+    font-weight: 400;
+}
+.Informacion{
+    text-align: center;
+    font-size: 4rem;
+    color: rgb(180, 180, 180);
+    margin-top: 4rem;
+}
+.Caja-Precios{
+   width: 30rem;
+   height: 45rem;
+   margin-right: 65rem;
+   display: flex;
+   flex-direction: block;
+   margin-top: 4rem;
 
+}
+.Monedas{
+    font-size: 7rem;
+    color: var(--Naranja);
+    margin-top: 4rem;
+    text-align: left;
+    font-weight: 500; 
+    margin-left: 9rem;
+}
+.Extremos-Izq{
+    width: 30rem;
+    height: 7rem;
+    background-color: var(--Blanco);
+    margin: 0.2rem;
+    font-size: 6rem;
+    color:var(--Gris);
+    border-radius: 1rem 0.1rem 0.1rem 0.1rem ;
+    padding-left: 1rem;
+    box-sizing: border-box;
+    padding: 0.8rem;
+}
+.Extremos-Izq-i{
+    width: 30rem;
+    height: 7rem;
+    background-color: var(--Blanco);
+    margin: 0.2rem;
+    font-size: 6rem;
+    color:var(--Gris);
+    border-radius: 0.1rem 0.1rem 0.1rem 1rem ;
+    padding-left: 1rem;
+    box-sizing: border-box;
+    padding: 0.8rem;
+}
+.Centros-Izq{
+    width: 30rem;
+    height: 7rem;
+    background-color: var(--Blanco);
+    margin: 0.1rem;
+    font-size: 6rem;
+    color:var(--Gris);
+    border-radius: 0.1rem 0.1rem 0.1rem 0.1rem ;
+    padding-left: 1rem;
+    box-sizing: border-box;
+    padding: 0.8rem;
+}
+/*Lado derecho*/
+.Extremos-Drh{
+    width: 30rem;
+    height: 7rem;
+    background-color: var(--Blanco);
+    margin: 0.1rem;
+    font-size: 6rem;
+    color:grey;
+    border-radius: 0.1rem 1rem 0.1rem 0.1rem ;
+    padding-left: 3rem;
+    box-sizing: border-box;
+    padding: 0.8rem;
+}
+.Extremos-Drh-i{
+    width: 30rem;
+    height: 7rem;
+    background-color: var(--Blanco);
+    margin: 0.1rem;
+    font-size: 6rem;
+    color:grey;
+    border-radius: 0.1rem 0.1rem 1rem 0.1rem ;
+    padding-left: 3rem;
+    box-sizing: border-box;
+    padding: 0.8rem;
+}
 
-
-
-
-
-
+.Centros-Drh{
+    width: 30rem;
+    height: 7rem;
+    background-color: var(--Blanco);
+    margin: 0.1rem;
+    font-size: 6rem;
+    color:grey;
+    border-radius: 0.1rem 0.1rem 0.1rem 0.1rem ;
+    padding-left: 3rem;
+    box-sizing: border-box;
+    padding: 0.8rem;
+}
+.Caja-Actualizar{
+    display: flex;
+     margin: auto;
+     margin-top: 10rem;
+     width: 70rem;
+     height: 12rem;
+     background-color:var(--Piel);
+     border-radius: 0.5rem;
+}
+.Caja-Actualizar p{
+     margin: auto;
+     font-size: 4rem;
+}
 
 
 /*Sección Deisi*/
+
+.t_1{
+    width: 70rem;
+    height: 15rem;
+    margin:auto;
+    padding-top:0.8rem;
+    color: var(--Blanco);
+    box-sizing: border-box; 
+}.t_1 h1{
+     font-size: 5rem;
+     text-align: center;
+}
+.t_2{
+    width: 90%;
+    height: 4rem;
+    margin:auto;
+    padding-top: 0.8rem;
+    color: var(--Gris);  
+}
+.t_2  h2{
+    font-size: 2.5rem;
+    text-align: center;
+} 
+.con_h{
+    width: 98%;
+    height: 55rem;
+    margin:auto;
+
+    display: flex;
+    flex-direction: row;
+    Justify-content: space-evenly;
+    flex-wrap: wrap;
+
+}
+.con_h img{
+    width:5rem ;
+}
+ .Cuadro_1,.Cuadro_2,.Cuadro_3,.Cuadro_4{
+     width: 50rem;
+     height: 22rem;
+     padding: 2rem;
+     margin: 0.5rem;
+    
+ }
+ .Cuadro_1 h1,.Cuadro_2 h1, .Cuadro_3 h1,.Cuadro_4 h1{
+    width: 100%;
+    height: 2rem;
+    margin-top: 1.5rem;
+    margin-bottom: 1.5rem;
+    font-size: 2.2rem;
+    color: var(--Blanco);
+}
+.Cuadro_1 p,.Cuadro_2 p, .Cuadro_3 p,.Cuadro_4 p{
+    font-size: 2rem;
+    color: var(--Gris); 
+}
+.FOTO-1{
+    width:136.7rem;
+    height: 55rem;
+    background-image: url(../img/women.png);
+    background-size: cover;
+}
+.FOTO-1 h2{
+    margin-bottom: 1rem;
+    font-size: 7rem;
+    padding-top: 10rem;
+
+}
+.Fra h2{
+    width: 60rem;
+    height: 11rem;
+    margin: auto;
+    text-align: center;
+    font-size:5rem;
+    margin-top: 1rem;
+    margin-bottom: 2rem;
+    
+}
+.Fra h5 {
+    width: 60rem;
+    height: 8rem;
+    margin: auto;
+    color:var( --Gris) ;
+    text-align: center;
+    font-size: 3rem;
+     margin-top: 0.8rem;
+     margin-bottom: 5rem; 
+     
+}
+.OP_PAGO{ 
+    width: 90%;
+    height: 40rem;
+    margin: auto;
+    display: flex;
+    flex-direction: row;
+    Justify-content: space-evenly;
+    flex-wrap: wrap;
+}
