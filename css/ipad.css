@@ -216,7 +216,7 @@
 
 /*Sección Deisi*/
 .sen-2{
-    width: 100%;
+    width: 78.6rem;
     background-color:var(--CafeOscuro);
     box-sizing: border-box; 
     margin: auto;
@@ -228,31 +228,31 @@
     width: 60rem;
     height: 15rem;
     margin:auto;
-    padding-top:0.8rem;
+    
     color: var(--Blanco);
     box-sizing: border-box; 
+
 }.t_1 h1{
      font-size: 4rem;
      text-align: center;
 }
 .t_2{
-    width: 90%;
-    height: 4rem;
+    width: 46.6rem;
+    height: 10rem;
     margin:auto;
-    padding-top: 0.8rem;
+    padding-top: 0.7rem;
     color: var(--Gris);  
 }
 .t_2  h2{
-    font-size: 1.9rem;
+    font-size: 2rem;
     text-align: center;
 }
 
 /*Parte 3*/
 
 .con_h{
-    width: 100%;
-    height: 50rem;
-    
+    width: 90%;
+    height: 40rem;
 
     display: flex;
     flex-direction: row;
@@ -262,9 +262,10 @@
 }
  .Cuadro_1,.Cuadro_2,.Cuadro_3,.Cuadro_4{
      width: 35rem;
-     height: 19rem;
+     height: 16rem;
      padding: 2rem;
-     margin: 0.5rem;
+     margin-top: 1rem;
+     margin-bottom: 1rem;
     
  }
  .Cuadro_1 h1,.Cuadro_2 h1, .Cuadro_3 h1,.Cuadro_4 h1{
@@ -276,27 +277,25 @@
      color: var(--Blanco);
  }
  .Cuadro_1 p,.Cuadro_2 p, .Cuadro_3 p,.Cuadro_4 p{
-     font-size: 1.5rem;
+     font-size: 1.4rem;
      color: var(--Gris); 
  }
-
-
  .sen_3{
     width: 100%;
     margin: auto;
 }
 .FOTO-1{
-    width:76.6rem;
-    height: 40rem;
-    background-image: url(../img/women.png);
+    width:78.6rem;
+    height: 29.9rem;
+    background-image: url(../img/imagen.png);
     background-size: cover;
 }
 .FOTO-1 h2{
     margin-bottom: 1rem;
-    font-size: 3.5rem;
+    font-size: 4rem;
     color:var(--Blanco);
     text-align: center;
-    padding-top: 8rem;
+    padding-top: 13rem;
     box-sizing: border-box; 
 }
 .Fra h2{
@@ -304,30 +303,81 @@
     height: 10.9rem;
     margin: auto;
     text-align: center;
-    font-size:3.5rem;
-    margin-top: 1rem;
-    margin-bottom: 2rem;
+    font-size:4rem;
+    margin-top: 5rem;
+    margin-bottom: 1rem;
+
     
 }
 .Fra h5 {
-    width: 40rem;
-    height: 8rem;
+    width: 45rem;
+    height: 7rem;
     margin: auto;
     color:var( --Gris) ;
     text-align: center;
     font-size: 2rem;
-     margin-top: 0.8rem;
-     margin-bottom: 5rem; 
-     
+   
 }
 
 .OP_PAGO{ 
-    width: 100%;
-    height: 40rem;
+    width: 78.6rem;
+    height: 36rem;
     display: flex;
-    
+    margin: auto;
+    margin-top: 3rem;
+    margin-bottom: 3rem;
     flex-direction: row;
     Justify-content: space-evenly;
     flex-wrap: wrap;
   
+}
+.Pagop,.Pago1,.Pago3{
+    width: 24rem;
+    height: 30rem;
+    background-color:var(--Blanco);
+    border-radius: 10px;
+    box-shadow: 5px 5px 15px rgb(134, 134, 134);
+    margin: auto;
+    margin-bottom: 3rem;
+    position: relative;
+     
+ }
+footer{
+    width:78.6rem;
+    height:15rem;
+    margin: auto;
+    background-color: var(--Naranja);
+    color:var(--Blanco);
+    display:flex;
+    justify-content: space-evenly;  
+}
+.P_1 {
+    width: 15rem;
+    height:12rem ;
+    margin: auto;
+    padding-top: 2rem;
+}
+.P_1 li{
+    font-size: 2rem;
+    list-style: none;
+}
+.P_2{
+    width: 20rem;
+    height:10rem ;
+    margin: auto;
+    margin-left: 3rem;
+  
+    padding: 2rem;
+
+}.MG_1{
+    width: 9.7rem;
+    height: 5.3rem;
+    margin: auto;
+    display: flex;
+  
+}
+.P-B{
+    margin-top: 1rem;
+    font-size:1.7rem ;
+    text-align: center;
 }

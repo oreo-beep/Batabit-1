@@ -243,6 +243,7 @@
 /* Cuadros*/
 .con_h{
     width: 37.5rem;
+    height: 70rem;
     margin:auto;
  }
  .Cuadro_1,.Cuadro_2,.Cuadro_3,.Cuadro_4{
@@ -425,6 +426,8 @@
  width: 10rem;
  height: 1rem;
  font-size:1.5rem;
+ color: black;
+text-decoration: none;
  
 }
 .Es1,.Es2{
@@ -435,10 +438,10 @@
     
 }
  .Flecha{
-     width: 2.5rem;
+    width: 2.5rem;
 }
 .Flecha1,.Flecha2{
-    width: 2.5rem;
+    width: 2rem;
 }
 
 
