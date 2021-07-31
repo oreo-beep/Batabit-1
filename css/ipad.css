@@ -1,11 +1,11 @@
 /*Sección Diego*/
 .Seccion_principal{
     background-color: var(--PielClaro);
-    width: 78.6rem;
+    width: 100%;
 }
 .Caja-Frase{
     margin: auto;
-    width: 78.6rem;
+    width: 100%;
     height: 48rem;
     background: linear-gradient(207.8deg, #201E1C 16.69%, #F7931A 100%);
     padding: 3rem;
@@ -82,7 +82,7 @@
 .Caja-Img{
     margin: auto;
     display: flex;
-    width: 78.6rem;
+    width: 100%;
     padding-top: 3rem;
 }
 .Bitcoin{
@@ -216,7 +216,7 @@
 
 /*Sección Deisi*/
 .sen-2{
-    width: 78.6rem;
+    width: 100%;
     background-color:var(--CafeOscuro);
     box-sizing: border-box; 
     margin: auto;
@@ -251,7 +251,7 @@
 /*Parte 3*/
 
 .con_h{
-    width: 90%;
+    width: 100%;
     height: 40rem;
 
     display: flex;
@@ -285,7 +285,7 @@
     margin: auto;
 }
 .FOTO-1{
-    width:78.6rem;
+    width:100%;
     height: 29.9rem;
     background-image: url(../img/imagen.png);
     background-size: cover;
@@ -320,7 +320,7 @@
 }
 
 .OP_PAGO{ 
-    width: 78.6rem;
+    width: 100%;
     height: 36rem;
     display: flex;
     margin: auto;
@@ -343,7 +343,7 @@
      
  }
 footer{
-    width:78.6rem;
+    width:100%;
     height:15rem;
     margin: auto;
     background-color: var(--Naranja);
