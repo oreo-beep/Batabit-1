@@ -34,6 +34,7 @@ https://oreo-beep.github.io/Batabit-1/
 - Se realiza la tercera section con el cual se utilizó  las medidas rem y iconos.
 - También la cuarta la cual consiste en   los cuadros de pago.
 - Y la ultima la cual se enfoca en el footer.
+- La redacción  del README.
 
 ------------
 
