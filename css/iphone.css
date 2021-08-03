@@ -243,12 +243,8 @@
 /* Cuadros*/
 .con_h{
     width: 37.5rem;
-<<<<<<< HEAD
     height: 70rem;
     margin:auto;
-=======
-    margin: auto;
->>>>>>> 2b8ae6bf44a793d1ed168648adba16cc125993ff
  }
  .Cuadro_1,.Cuadro_2,.Cuadro_3,.Cuadro_4{
      width: 85%;

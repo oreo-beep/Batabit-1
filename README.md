@@ -1,24 +1,12 @@
 ## # Batabit-1
-<<<<<<< HEAD
-######  Logo:
-![Imagen2](https://user-images.githubusercontent.com/68709170/126567703-b211cfed-0278-4b30-8d0f-cd2d8051c8bd.png)
-######  Link:
-https://oreo-beep.github.io/Batabit-1/
-##### portafolio
-=======
 ###### Link:
 https://oreo-beep.github.io/Batabit-1/
 ##### Portada
->>>>>>> 2b8ae6bf44a793d1ed168648adba16cc125993ff
 ![Con_1](https://user-images.githubusercontent.com/68709170/126567715-0d6188ca-c467-45fa-b320-afa880724c2e.png)
 
 ------------
 - Portafolio III  de Producción de Contenidos Digitales 
 -  SCL
-<<<<<<< HEAD
--  Año 2021
-=======
->>>>>>> 2b8ae6bf44a793d1ed168648adba16cc125993ff
 ----------------------
 ##### Anteportada
 ###### Colegio:
@@ -51,7 +39,3 @@ https://oreo-beep.github.io/Batabit-1/
 - Analizar todo el procedimiento   de nuestro proyecto.
 - Trabajar en equipo para generar un mejor entendimiento.
 - Practicar en todas las actividades para generar mejor conocimiento.
-<<<<<<< HEAD
-=======
-
->>>>>>> 2b8ae6bf44a793d1ed168648adba16cc125993ff

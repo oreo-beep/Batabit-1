@@ -286,85 +286,12 @@
     font-size: 4rem;
     padding-top: 20rem;
 
-<<<<<<< HEAD
-=======
-
-
-/*Sección Deisi*/
-.t_1{
-    width: 70rem;
-    height: 15rem;
-    margin:auto;
-    padding-top:0.8rem;
-    color: var(--Blanco);
-    box-sizing: border-box; 
-}.t_1 h1{
-     font-size: 5rem;
-     text-align: center;
-}
-.t_2{
-    width: 90%;
-    height: 4rem;
-    margin:auto;
-    padding-top: 0.8rem;
-    color: var(--Gris);  
-}
-.t_2  h2{
-    font-size: 2.5rem;
-    text-align: center;
-} 
-.con_h{
-    width: 98%;
-    height: 55rem;
-    margin:auto;
-
-    display: flex;
-    flex-direction: row;
-    Justify-content: space-evenly;
-    flex-wrap: wrap;
-
-}
-.con_h img{
-    width:5rem ;
-}
- .Cuadro_1,.Cuadro_2,.Cuadro_3,.Cuadro_4{
-     width: 50rem;
-     height: 22rem;
-     padding: 2rem;
-     margin: 0.5rem;
-    
- }
- .Cuadro_1 h1,.Cuadro_2 h1, .Cuadro_3 h1,.Cuadro_4 h1{
-    width: 100%;
-    height: 2rem;
-    margin-top: 1.5rem;
-    margin-bottom: 1.5rem;
-    font-size: 2.2rem;
-    color: var(--Blanco);
-}
-.Cuadro_1 p,.Cuadro_2 p, .Cuadro_3 p,.Cuadro_4 p{
-    font-size: 2rem;
-    color: var(--Gris); 
-}
-.FOTO-1{
-    width:136.7rem;
-    height: 55rem;
-    background-image: url(../img/women.png);
-    background-size: cover;
-}
-.FOTO-1 h2{
-    margin-bottom: 1rem;
-    font-size: 7rem;
-    padding-top: 10rem;
-
->>>>>>> 2b8ae6bf44a793d1ed168648adba16cc125993ff
 }
 .Fra h2{
     width: 60rem;
     height: 11rem;
     margin: auto;
     text-align: center;
-<<<<<<< HEAD
     font-size:4rem;
     margin-top: 5rem;
     margin-bottom: 1rem;
@@ -372,42 +299,22 @@
 }
 .Fra h5 {
     width: 63rem;
-=======
-    font-size:5rem;
-    margin-top: 1rem;
-    margin-bottom: 2rem;
-    
-}
-.Fra h5 {
-    width: 60rem;
->>>>>>> 2b8ae6bf44a793d1ed168648adba16cc125993ff
     height: 8rem;
     margin: auto;
     color:var( --Gris) ;
     text-align: center;
-<<<<<<< HEAD
     font-size: 2.3rem;
-=======
-    font-size: 3rem;
-     margin-top: 0.8rem;
-     margin-bottom: 5rem; 
->>>>>>> 2b8ae6bf44a793d1ed168648adba16cc125993ff
      
 }
 .OP_PAGO{ 
     width: 90%;
-<<<<<<< HEAD
     height: 36rem;
-=======
-    height: 40rem;
->>>>>>> 2b8ae6bf44a793d1ed168648adba16cc125993ff
     margin: auto;
     display: flex;
     flex-direction: row;
     Justify-content: space-evenly;
     flex-wrap: wrap;
 }
-<<<<<<< HEAD
 footer{
     width:137rem;
     height:15rem;
@@ -417,6 +324,3 @@ footer{
     display:flex;
     justify-content: space-evenly;  
 }
-=======
-
->>>>>>> 2b8ae6bf44a793d1ed168648adba16cc125993ff
