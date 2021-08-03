@@ -1,10 +1,8 @@
 ##  Batabit-1
   
-  
-
-######  Link:
-https://oreo-beep.github.io/Batabit-1/
-##### Portafolio
+ <img width="100px" src="img/Imagen2..png">
+ 
+## Portafolio
 ![Con_1](https://user-images.githubusercontent.com/68709170/126567715-0d6188ca-c467-45fa-b320-afa880724c2e.png)
 
 ------------
@@ -31,11 +29,8 @@ https://oreo-beep.github.io/Batabit-1/
 - Índice
 - Objetivos
 - Documentación
-        -Se encuentra variable de colores.
-        -Medidas Rem.
-        -Html.
-        -Css.
-        -js.
+     ( - Se encuentra variable de colores, Medidas Rem,  Html, Css y js. )
+     
 - Objetivos futuros
 
 ------------
@@ -56,7 +51,9 @@ https://oreo-beep.github.io/Batabit-1/
 - También la cuarta la cual consiste en   los cuadros de pago.
 - Y la ultima la cual se enfoca en el footer.
 - La redacción  del README.
-
+###### Link del figma.
+https://www.figma.com/file/sMmlQaZldfDcLERYYWe6h4/Bata-Bit?node-id=359%3A154
+###### Link Proyecto.
 
 ------------
 ##### Objetivos futuros 
