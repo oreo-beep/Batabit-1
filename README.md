@@ -1,9 +1,9 @@
-## # Batabit-1
-######  Logo:
-![Imagen2](https://user-images.githubusercontent.com/68709170/126567703-b211cfed-0278-4b30-8d0f-cd2d8051c8bd.png)
+##  Batabit-1
+    <img width="" src="![Imagen2](https://user-images.githubusercontent.com/68709170/126567703-b211cfed-0278-4b30-8d0f-cd2d8051c8bd.png)" />
+
 ######  Link:
 https://oreo-beep.github.io/Batabit-1/
-##### portafolio
+##### Portafolio
 ![Con_1](https://user-images.githubusercontent.com/68709170/126567715-0d6188ca-c467-45fa-b320-afa880724c2e.png)
 
 ------------
@@ -24,8 +24,28 @@ https://oreo-beep.github.io/Batabit-1/
 ###### Profesor: 
 - Jossue Emmanuel Fuentes
 ----------------------
-
 #### Ìndice
+- Portada
+- Anteportada
+- Índice
+- Objetivos
+- Documentación
+        -Se encuentra variable de colores.
+        -Medidas Rem.
+        -Html.
+        -Css.
+        -js.
+- Objetivos futuros
+
+------------
+##### Objetivos
+- Analizar todo el procedimiento   de nuestro proyecto.
+- Trabajar en equipo para generar un mejor entendimiento.
+- Practicar en todas las actividades para generar mejor conocimiento.
+
+
+------------
+#### Documentación
 ###### Section1y2
 - Trabajado por Diego Eduardo Osorio Chunchún
 - Se realiza la primera parte del wiframe donde se utilizan medidas rem y el código de colores
@@ -36,13 +56,6 @@ https://oreo-beep.github.io/Batabit-1/
 - Y la ultima la cual se enfoca en el footer.
 - La redacción  del README.
 
-------------
-
-
-##### Objetivos
-- Analizar todo el procedimiento   de nuestro proyecto.
-- Trabajar en equipo para generar un mejor entendimiento.
-- Practicar en todas las actividades para generar mejor conocimiento.
 
 ------------
 ##### Objetivos futuros 
