@@ -1,6 +1,6 @@
 ##  Batabit-1
   
- <img width="100px" src="img/Imagen2..png">
+  <img width="100px" src="img/Imagen2..png">
  
 ## Portafolio
 ![Con_1](https://user-images.githubusercontent.com/68709170/126567715-0d6188ca-c467-45fa-b320-afa880724c2e.png)
@@ -29,8 +29,11 @@
 - Índice
 - Objetivos
 - Documentación
-     ( - Se encuentra variable de colores, Medidas Rem,  Html, Css y js. )
-     
+	- Se encuentra variable de colores
+	- Medidas Rem
+	- Html
+	- Css 
+	- js. 
 - Objetivos futuros
 
 ------------
@@ -51,9 +54,8 @@
 - También la cuarta la cual consiste en   los cuadros de pago.
 - Y la ultima la cual se enfoca en el footer.
 - La redacción  del README.
-###### Link del figma.
-https://www.figma.com/file/sMmlQaZldfDcLERYYWe6h4/Bata-Bit?node-id=359%3A154
-###### Link Proyecto.
+###### [Link del figma.](http://https://www.figma.com/file/sMmlQaZldfDcLERYYWe6h4/Bata-Bit?node-id=359%3A154 "Link del figma.")
+###### [Link Proyecto.](http://https://oreo-beep.github.io/Batabit-1/ "Link Proyecto.")
 
 ------------
 ##### Objetivos futuros 
