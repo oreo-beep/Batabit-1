@@ -23,7 +23,7 @@ https://oreo-beep.github.io/Batabit-1/
 ----------------------
 
 #### Ìndice
-###### # Section1y2
+###### Section1y2
 - Trabajado por Diego Eduardo Osorio Chunchún
 - Se realiza la primera parte del wiframe donde se utilizan medidas rem y el código de colores
 ###### Section3y4
@@ -36,6 +36,11 @@ https://oreo-beep.github.io/Batabit-1/
 
 
 ##### Objetivos
-- Analizar todo el procedimiento   de nuestro proyecto.
+- Analizar todo el procedimiento   de nuestro proyecto para no tener ningún problema.
 - Trabajar en equipo para generar un mejor entendimiento.
-- Practicar en todas las actividades para generar mejor conocimiento.
+- Practicar en todas las actividades para generar una mejor experiencia.
+
+##### Objetivos futuros 
+- Establecer un horario justo para tener un mejor organizacion.
+- Investigar lo necesario para disminuir los problemas que surgen en el camino. 
+- Trabaja con mejores tecnica para entregar un trabajo formal.
