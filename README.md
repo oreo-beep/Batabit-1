@@ -54,9 +54,10 @@
 - También la cuarta la cual consiste en   los cuadros de pago.
 - Y la ultima la cual se enfoca en el footer.
 - La redacción  del README.
-###### [Link del figma.](http://https://www.figma.com/file/sMmlQaZldfDcLERYYWe6h4/Bata-Bit?node-id=359%3A154 "Link del figma.")
-###### [Link Proyecto.](http://https://oreo-beep.github.io/Batabit-1/ "Link Proyecto.")
-
+###### Link del figma.
+https://www.figma.com/file/sMmlQaZldfDcLERYYWe6h4/Bata-Bit?node-id=359%3A154
+###### Link Proyecto.
+https://oreo-beep.github.io/Batabit-1/
 ------------
 ##### Objetivos futuros 
 - Establecer un horario justo para tener un mejor organizacion.
